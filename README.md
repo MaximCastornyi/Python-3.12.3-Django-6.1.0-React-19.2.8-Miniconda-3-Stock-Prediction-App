@@ -46,7 +46,7 @@ conda activate stock-app
 # Install ML dependencies
 conda install -c conda-forge scikit-learn matplotlib -y
 pip install tensorflow keras
-
+```
 
 ## 📊 Model Evaluation
 
@@ -76,7 +76,7 @@ The performance of the LSTM stock price prediction model is evaluated using stan
   * Represents the squared value of RMSE ($12.03^2 \approx 144.83$).
   * Heavily penalizes **large mispredictions and price spikes** (outliers).
   * Used internally by the machine learning framework as the optimization loss function.
-```
+
 <br/><br/>
 <img width="1212" height="616" alt="1" src="https://github.com/user-attachments/assets/d6eecb20-d17a-4569-b0a6-37b711b26907" />
 <br/><br/>
