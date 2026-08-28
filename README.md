@@ -33,6 +33,13 @@ Create and activate your Conda environment, then install the required dependenci
 
 ```bash
 # Create Conda environment
+conda create -n stock-app python=3.12 -y
+conda activate stock-app
+
+# Install ML dependencies
+conda install -c conda-forge scikit-learn matplotlib -y
+pip install tensorflow keras
+
 
 ## 📊 Model Evaluation
 
