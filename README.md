@@ -88,8 +88,6 @@ The performance of the LSTM stock price prediction model is evaluated using stan
 <br/><br/>
 <img width="1212" height="616" alt="5" src="https://github.com/user-attachments/assets/79c2ad43-a34b-4d93-b08c-43679a80f3c2" />
 <br/><br/>
-<img width="1212" height="616" alt="6" src="https://github.com/user-attachments/assets/4a44fb0e-9228-4f32-92cf-c826752cf7c8" />
-<br/><br/>
 <img width="1212" height="616" alt="7" src="https://github.com/user-attachments/assets/ff629bc4-eea4-437d-92b9-d25e8f43d7ba" />
 <br/><br/>
 <img width="1212" height="616" alt="8" src="https://github.com/user-attachments/assets/c071027e-1cec-4c40-96b6-6d5dc01807c7" />
