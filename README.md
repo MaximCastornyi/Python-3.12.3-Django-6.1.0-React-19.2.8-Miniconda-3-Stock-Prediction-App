@@ -3,7 +3,14 @@ This application predicts stock prices 100 and 200 days into the future. The tec
 
 # 📈 Stock Price Prediction App
 
-An AI-powered web application for predicting stock prices 100 and 200 days ahead using Deep Learning (LSTM networks).
+The project uses LSTM. "Deep Learning with LSTM Models" generally refers to using the LSTM (Long Short-Term Memory) architecture within deep learning for working with sequential data—such as text, time series, audio, or any data where temporal context matters. It is one of the key approaches to modeling long-term dependencies, overcoming the limitations of standard RNNs.
+
+🔎 What is LSTM?
+LSTM (Long Short-Term Memory) is a type of Recurrent Neural Network (RNN).
+
+Key feature: The presence of a cell state and control mechanisms (gates—input, output, and forget gates).
+
+These mechanisms allow the network to retain or discard information over long periods, solving the vanishing/exploding gradient problem inherent in traditional RNNs.
 
 ---
 
